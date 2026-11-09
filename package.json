@@ -1,0 +1,13 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora web com histórico, teclado e tema claro e escuro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
